@@ -1,0 +1,19 @@
+.header-content h1{
+    font-size: 25px;
+}
+.header-content strong{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.navbar-brand{
+    font-family: "Fredoka One" !important;
+    color: black !important;
+    font-size: 30px;
+}
+.logo-icon{
+    font-size: 30px;
+    padding-top: 15px;
+}
+.icon-inner svg{
+    padding-top: 10px;
+}
